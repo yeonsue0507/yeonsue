@@ -36,7 +36,7 @@ public class MainActivity00 extends AppCompatActivity {
             public void onClick(View v){
                 Intent ticket = new Intent(MainActivity00.this, Main2Activity.class);
                 startActivity(ticket);
-            }
+            }/*216230048장연수*/
         });
     }
 
